@@ -1,0 +1,27 @@
+#cardNoVote {
+  width: 500px;
+
+}
+
+#cardCanVote {
+  width: 500px;
+
+}
+
+#canVoteTitle {
+  width: 600px;
+}
+
+#noVoteTitle {
+  width: 600px;
+}
+
+/* Space after comma? */
+
+#canVote {
+  display: none;
+}
+
+#cannotVote {
+  display: none;
+}
